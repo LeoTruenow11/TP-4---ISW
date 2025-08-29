@@ -1,18 +1,18 @@
 ```text
 /ingeniería-calidad-software
-├── filminas/
-│ └── <<Número de filmina>> - <<Título de la filmina>>.pptx
-├── apuntes/
-│ ├── Notas de clase
-│ │   └── Nota clase <<DD-MM-YYYY>>.md
-│ └── Resúmenes
-│     └── Unidad <<Número unidad>>.md
-├── guías de ejercicios/
-├── parciales/
-│   └── Modelo parcial <<número modelo>>.md
 ├── Programa.md
-└── Bibliografía/
-└── <<Nombre del autor>> - <<Título del libro>>.pdf
+├── Bibliografía/
+│   └── <<Nombre del autor>> - <<Título del libro>>.pdf
+├── filminas/
+│   └── <<Número de filmina>> - <<Título de la filmina>>.pptx
+├── apuntes/
+│   ├── Notas de clase
+│   │   └── Nota clase <<DD-MM-YYYY>>.md
+│   └── Resúmenes
+│       └── Unidad <<Número unidad>>.md
+├── guías de ejercicios/
+└──  parciales/
+   └── Modelo parcial <<número modelo>>.md
 ```
 
 ### Detalle de carpetas y archivos

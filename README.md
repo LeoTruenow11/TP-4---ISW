@@ -1,3 +1,4 @@
+```text
 /ingeniería-calidad-software
 ├── filminas/
 │ └── <<Número de filmina>> - <<Título de la filmina>>.pptx
@@ -12,7 +13,7 @@
 ├── Programa.md
 └── Bibliografía/
 └── <<Nombre del autor>> - <<Título del libro>>.pdf
-
+```
 Programa.md
 Bibliografía/
     <<Nombre del autor>> - <<Título del libro>>.pdf

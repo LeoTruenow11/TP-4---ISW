@@ -11,8 +11,8 @@
 │   └── Resúmenes
 │       └── Unidad <<Número unidad>>.md
 ├── guías de ejercicios/
-└──  parciales/
-   └── Modelo parcial <<número modelo>>.md
+└── parciales/
+    └── Modelo parcial <<número modelo>>.md
 ```
 
 ### Detalle de carpetas y archivos

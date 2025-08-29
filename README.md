@@ -11,6 +11,7 @@
 │   └── Resúmenes
 │       └── Unidad <<Número unidad>>.md
 ├── guías de ejercicios/
+│   └── Guía <<Tipo de guía>>.md
 └── parciales/
     └── Modelo parcial <<número modelo>>.md
 ```
@@ -30,7 +31,8 @@
   - **Resúmenes/**  
     - `Unidad <<Número unidad>>.md`  
 
-- **guías de ejercicios/** → Material práctico.  
+- **guías de ejercicios/**
+    - `Guía <<Tupo de guía>>.md`
 
 - **parciales/**  
   - `Modelo parcial <<número modelo>>.md`  

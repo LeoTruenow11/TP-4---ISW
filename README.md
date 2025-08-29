@@ -32,7 +32,7 @@
     - `Unidad <<Número unidad>>.md`  
 
 - **guías de ejercicios/**
-    - `Guía <<Tupo de guía>>.md`
+    - `Guía <<Tipo de guía>>.md`
 
 - **parciales/**  
   - `Modelo parcial <<número modelo>>.md`  
